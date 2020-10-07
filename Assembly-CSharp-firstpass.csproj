@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{ef30a1cc-7c48-bfc8-af0b-6ebb9d5b42a0}</ProjectGuid>
+    <ProjectGuid>{5e210481-7143-4b05-250f-cd069d095395}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -573,31 +573,31 @@
         <HintPath>/home/adrien/Unity/Hub/Editor/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

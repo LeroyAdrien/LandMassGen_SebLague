@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6dab2720-87e4-0489-cf95-1a41c7dbbdb4}</ProjectGuid>
+    <ProjectGuid>{2f3f9443-63dc-4bf0-35b6-01725dc42712}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -579,36 +579,36 @@
         <HintPath>/home/adrien/Unity/Hub/Editor/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/home/adrien/Documents/Perso/Unity/Procedural-Landmass-Generation/Proc Gen E13/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/home/adrien/Documents/Perso/Unity/LandMassGen_SebLague/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{ef30a1cc-7c48-bfc8-af0b-6ebb9d5b42a0}</Project>
+      <Project>{5e210481-7143-4b05-250f-cd069d095395}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
